@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DSA And Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through Linkedin
+- 📫 Reach me through Linkedin
 
 <!---
 Rishabh0097/Rishabh0097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
